@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+#my_title{
+    width: 100%;
+    margin-top: 0%;
+    font-size: 25px;
+    font-family: 'Rowdies', cursive;
+}
+#note{
+    font-size: 18px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif !important; 
+}
+.image_disk{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#speed_div{
+    float: left;
+}
+
+.labels{
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#volume_div{
+    float: right;
+}
+
+.play_label{
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+canvas{
+    border: 5px solid darkblue;
+    border-radius: 15px;
+}
